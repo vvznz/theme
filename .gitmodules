@@ -1,0 +1,5 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/vvznz/vvznz.github.io/pages
+	branch = main
+
