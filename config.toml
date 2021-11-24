@@ -1,3 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = ''
 languageCode = 'en-us'
-title = 'theme-site'
+title = 'Made from scratch'
+#theme = 'vz'
+
